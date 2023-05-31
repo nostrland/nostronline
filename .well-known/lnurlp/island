@@ -1,0 +1,10 @@
+{
+    "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/9289f914-0f2d-4647-a45a-6cb606d8c8e9",
+    "maxSendable": 100000000000,
+    "minSendable": 1000,
+    "metadata": "[[\"text/plain\",\"Pay to Wallet of Satoshi user: island\"],[\"text/identifier\",\"island@walletofsatoshi.com\"]]",
+    "commentAllowed": 32,
+    "tag": "payRequest",
+    "allowsNostr": true,
+    "nostrPubkey": "be1d89794bf92de5dd64c1e60f6a2c70c140abac9932418fee30c5c637fe9479"
+}
